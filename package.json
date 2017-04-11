@@ -1,0 +1,37 @@
+{
+  "name": "mailchimp-ecommerce",
+  "version": "1.0.0",
+  "description": "Mailchimp Ecommerce wrapper for API v3",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://highdev2016@github.com/highdev2016/node-mailchimp-ecommerce.git"
+  },
+  "keywords": [
+    "mailchimp",
+    "api",
+    "v3",
+    "batch",
+    "mailchimp api v3",
+    "ecommerce",
+    "store",
+    "product",
+    "wrapper",
+    "mailchimp api"
+  ],
+  "author": "Jamie Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/highdev2016/node-mailchimp-ecommerce/issues"
+  },
+  "homepage": "https://github.com/highdev2016/node-mailchimp#readme",
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "lodash": "^3.10.1",
+    "request": "^2.67.0",
+    "tar": "^2.2.1"
+  }
+}
